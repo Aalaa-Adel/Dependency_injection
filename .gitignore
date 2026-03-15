@@ -1,0 +1,26 @@
+# Gradle
+.gradle/
+build/
+
+# Local config
+local.properties
+*.keystore
+*.jks
+
+# IDE
+.idea/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Kotlin / logs
+*.log
+
+# Android app build folders in subprojects
+**/build/
+**/.gradle/
+**/local.properties
+**/.idea/
+**/*.iml
